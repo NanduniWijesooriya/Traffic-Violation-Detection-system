@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+deep-sort-realtime
+paddleocr
+paddlepaddle
+firebase-admin
+twilio
+smtplib
